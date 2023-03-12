@@ -11,17 +11,17 @@ Desenvolver uma biblioteca para a manipulação de grafos, contendo:
 
 | Tarefa                                                                                     | Situação | Observação |
 | ------------------------------------------------------------------------------------------ | -------- | ---------- |
-| Representação de grafos utilizando Matriz de adjacência                                    | ✅       | -          |
-| Representação de grafos utilizando Lista de adjacência                                     | ✅       | -          |
-| Criação de um grafo com X v ́ertices (o número de v ́ertices deve ser inserido pelo usuário) | ✅       | -          |
-| Criação e remoção de arestas                                                               | ✅       | -          |
-| Ponderação e rotulação de vertices                                                         | ✅       |            |
-| Ponderação e rotulação de arestas                                                          | ✅       |            |
-| Checagem de adjacência entre vertices                                                      | ✅       | -          |
-| Checagem de adjacência entre vertices                                                      | ✅       |            |
-| Checagem da adjacência de arestas                                                          | ✅       |            |
-| Checagem da quantidade de vertices e arestas                                               | ✅       | -          |
-| Checagem de grafo vazio e completo                                                         | ✅       |            |
+| Representação de grafos utilizando Matriz de adjacência                                    | ❌       | -          |
+| Representação de grafos utilizando Lista de adjacência                                     | ❌       | -          |
+| Criação de um grafo com X v ́ertices (o número de v ́ertices deve ser inserido pelo usuário) | ❌       | -          |
+| Criação e remoção de arestas                                                               | ❌       | -          |
+| Ponderação e rotulação de vertices                                                         | ❌       |            |
+| Ponderação e rotulação de arestas                                                          | ❌       |            |
+| Checagem de adjacência entre vertices                                                      | ❌       | -          |
+| Checagem de adjacência entre vertices                                                      | ❌       |            |
+| Checagem da adjacência de arestas                                                          | ❌       |            |
+| Checagem da quantidade de vertices e arestas                                               | ❌       | -          |
+| Checagem de grafo vazio e completo                                                         | ❌       |            |
 
 ## [ Parte 2 ]
 
