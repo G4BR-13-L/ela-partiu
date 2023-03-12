@@ -26,4 +26,10 @@ impl Graph{
     pub fn ponder_edge(&mut self, v: u32, w: u32, weight: u32){
         self.matrix.ponder_edge(v, w, weight);
     } 
+
+    pub fn rm_edge(&mut self, v: u32, w: u32){
+        self.matrix.rm_edge(v, w);
+    }
+
+
 }

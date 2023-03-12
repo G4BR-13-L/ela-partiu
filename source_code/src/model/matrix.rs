@@ -34,4 +34,8 @@ impl Matrix {
     pub fn ponder_edge(&mut self, v: u32, w: u32, weight: u32) {
         self.matrix[v as usize][w as usize] = weight;
     }
+
+    pub fn rm_edge(&mut self, v: u32, w: u32) {
+        self.matrix[v as usize][w as usize] = 0;
+    }
 }
