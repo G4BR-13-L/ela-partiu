@@ -1,19 +1,14 @@
-# [Nome do projeto]
+# [Refeito emm Rust ] Trabalho Prático de Teoria dos Grafos 
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
+## Contributors
 
-## Alunos integrantes da equipe
+* Gabriel Victor Couto Martins de Paula 
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+# CHECKLIST COM AS TAREFAS
 
-## Professores responsáveis
+### REPRESENTAÇÕES
+| Tarefa                                                  | Situação | Quem Fez | Observação |
+| ------------------------------------------------------- | -------- | -------- | ---------- |
+| Representação de grafos utilizando Matriz de adjacência | ✅       | Gabriel  | -          |
+| Representação de grafos utilizando Lista de adjacência  | ✅       | Gabriel  | -          |
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
-
-## Instruções de utilização
-
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]

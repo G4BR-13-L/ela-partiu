@@ -12,4 +12,8 @@ fn main() {
 
     println!("{}", ver.label);
     println!("{}", graph.matrix.n_vertices);
+    graph.matrix.get_count_edges();
+    graph.add_edge(1,2);
+    graph.matrix.get_count_edges();
+
 }
